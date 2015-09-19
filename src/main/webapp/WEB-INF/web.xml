@@ -18,7 +18,7 @@
 		</servlet-class>
 		<init-param>
 			<param-name>jersey.config.server.provider.packages</param-name>
-			<param-value>br.edu.inatel.rest.api</param-value>
+			<param-value>br.edu.inatel.task.api</param-value>
 		</init-param>
 		<load-on-startup>1</load-on-startup>
 	</servlet>
